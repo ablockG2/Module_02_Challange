@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Command">
+    <Text>Module_02_Challange - Command 1</Text>
+    <Description>Some description</Description>
+    <Assembly>Module_02_Challange\Module_02_Challange.dll</Assembly>
+    <FullClassName>Module_02_Challange.Command1</FullClassName>
+    <ClientId>21a88552-c149-4011-aa3f-98147d1ed627</ClientId>
+    <VendorId>com.YOUR COMPANY NAME</VendorId>
+    <VendorDescription>YOUR COMPANY NAME, YOUR COMPANY URL</VendorDescription>
+  </AddIn>
+  <AddIn Type="Command">
+    <Text>Module_02_Challange - Command 2</Text>
+    <Description>Some description</Description>
+    <Assembly>Module_02_Challange\Module_02_Challange.dll</Assembly>
+    <FullClassName>Module_02_Challange.Command2</FullClassName>
+    <ClientId>d43e1b01-6643-4350-8eab-81ffc0093713</ClientId>
+    <VendorId>com.YOUR COMPANY NAME</VendorId>
+    <VendorDescription>YOUR COMPANY NAME, YOUR COMPANY URL</VendorDescription>
+  </AddIn>
+  <AddIn Type="Command">
+	<Text>Module_02_Challange - Module02Challenge</Text>
+	<Description>Some description</Description>
+	<Assembly>Module_02_Challange\Module_02_Challange.dll</Assembly>
+	<FullClassName>Module_02_Challange.Module02Challenge</FullClassName>
+	<ClientId>D442D6F4-82B7-4FBB-97C0-44A044ACF023</ClientId>
+	<VendorId>com.YOUR COMPANY NAME</VendorId>
+   	<VendorDescription>YOUR COMPANY NAME, YOUR COMPANY URL</VendorDescription>
+  </AddIn>
+	<AddIn Type="Application">
+    <Name>Module_02_Challange</Name>
+    <Assembly>Module_02_Challange\Module_02_Challange.dll</Assembly>
+    <FullClassName>Module_02_Challange.App</FullClassName>
+    <ClientId>7ee7530a-461d-486d-aa7a-31d4968613e0</ClientId>
+    <VendorId>com.YOUR COMPANY NAME</VendorId>
+    <VendorDescription>YOUR COMPANY NAME, YOUR COMPANY URL</VendorDescription>
+  </AddIn>
+</RevitAddIns>
